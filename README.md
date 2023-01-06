@@ -7,3 +7,6 @@ https://github.com/unresisting
 
 Made the thing but deleted it or sm so I reuploaded from a download I made in the past.
 I'm also making a StudentVue Discord Bot so watch my profile cause I might release it but using TS
+
+
+EDIT: also I know there's a bot token in there but it don't work lmao
